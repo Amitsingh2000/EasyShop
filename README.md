@@ -80,4 +80,4 @@ Special thanks to the developers and contributors of Spring Boot, Hibernate, and
 
 ## Contact
 
-For any inquiries or feedback, please contact [amit.pardeshi2000@example.com](mailto:your-amit.pardeshi2000@gmail.com).
+For any inquiries or feedback, please contact [amit.pardeshi2000@gmail.com](mailto:your-amit.pardeshi2000@gmail.com).
